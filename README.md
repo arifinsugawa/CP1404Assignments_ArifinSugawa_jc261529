@@ -13,23 +13,22 @@ _Note that to get full marks for this, your reflection should match the "exempla
 
 
 ## 1. How long did the entire project (assignment 2) take you?
-...  
-Note: You may like to use the WakaTime plugin, which tracks exactly how long you spend in code. See http://wakatime.com (but note that the free version only has a 7-day history)
+TBA (After all is done)
 
 ## 2. What are you most satisfied with?
-...
+TBA (After all is done)
 
 ## 3. What are you least satisfied with?
-...
+TBA (After all is done)
 
 ## 4. What worked well in your development process?
-...
+TBA (After all is done)
 
 ## 5. What about your process could be improved the next time you do a project like this?
-...
+TBA (After all is done)
 
 ## 6. Describe what resources you used and how you used them.
-...
+TBA (After all is done)
 
 ## 7. Describe the main challenges or obstacles you faced and how you overcame them.
-... 
+TBA (After all is done) 

@@ -4,7 +4,7 @@ Date: 22/04/2020
 Brief Project Description:
 A program for user to save their favorite songs that they had learnt
 as well as keeping track and recording upcoming songs that they want to learn.
-GitHub URL: https://github.com/CP1404-2017-2/a2-StephenOhl.git
+GitHub URL: https://github.com/arifinsugawa/CP1404Assignments_ArifinSugawa_jc261529
 """
 
 from kivy.app import App
